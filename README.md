@@ -1,2 +1,2 @@
-# Kubernetes Lab
-Here is my configuration files for Kubernetes (lab)
+# Objects
+Here is my configuration files for objects in Kubernetes
